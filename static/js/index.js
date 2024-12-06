@@ -83,62 +83,46 @@ function loadTableData() {
               <td>${row.info.date}</td>
               <td class="pro-overall">${proOverall}</td>
               <td class="hidden pro-details">${applyStyle(
-                safeGet(row, "pro.vision"),
-                proScores.vision[index]
+                safeGet(row, "pro.frameWise"),
+                proScores.frameWise[index]
               )}</td>
               <td class="hidden pro-details">${applyStyle(
-                safeGet(row, "pro.original"),
-                proScores.original[index]
+                safeGet(row, "pro.temporal"),
+                proScores.temporal[index]
               )}</td>
               <td class="val-overall">${valOverall}</td>
               <td class="hidden val-details">${applyStyle(
-                safeGet(row, "validation.artDesign"),
-                valScores.artDesign[index]
+                safeGet(row, "validation.newton"),
+                valScores.newton[index]
               )}</td>
               <td class="hidden val-details">${applyStyle(
-                safeGet(row, "validation.business"),
-                valScores.business[index]
+                safeGet(row, "validation.mass"),
+                valScores.mass[index]
               )}</td>
               <td class="hidden val-details">${applyStyle(
-                safeGet(row, "validation.science"),
-                valScores.science[index]
+                safeGet(row, "validation.fluid"),
+                valScores.fluid[index]
               )}</td>
               <td class="hidden val-details">${applyStyle(
-                safeGet(row, "validation.healthMedicine"),
-                valScores.healthMedicine[index]
+                safeGet(row, "validation.penetration"),
+                valScores.penetration[index]
               )}</td>
               <td class="hidden val-details">${applyStyle(
-                safeGet(row, "validation.humanSocialSci"),
-                valScores.humanSocialSci[index]
-              )}</td>
-              <td class="hidden val-details">${applyStyle(
-                safeGet(row, "validation.techEng"),
-                valScores.techEng[index]
+                safeGet(row, "validation.gravity"),
+                valScores.gravity[index]
               )}</td>
               <td class="test-overall">${testOverall}</td>
               <td class="hidden test-details">${applyStyle(
-                safeGet(row, "test.artDesign"),
-                testScores.artDesign[index]
+                safeGet(row, "test.level1"),
+                testScores.level1[index]
               )}</td>
               <td class="hidden test-details">${applyStyle(
-                safeGet(row, "test.business"),
-                testScores.business[index]
+                safeGet(row, "test.level2"),
+                testScores.level2[index]
               )}</td>
               <td class="hidden test-details">${applyStyle(
-                safeGet(row, "test.science"),
-                testScores.science[index]
-              )}</td>
-              <td class="hidden test-details">${applyStyle(
-                safeGet(row, "test.healthMedicine"),
-                testScores.healthMedicine[index]
-              )}</td>
-              <td class="hidden test-details">${applyStyle(
-                safeGet(row, "test.humanSocialSci"),
-                testScores.humanSocialSci[index]
-              )}</td>
-              <td class="hidden test-details">${applyStyle(
-                safeGet(row, "test.techEng"),
-                testScores.techEng[index]
+                safeGet(row, "test.level3"),
+                testScores.level3[index]
               )}</td>
             `;
         tbody.appendChild(tr);
