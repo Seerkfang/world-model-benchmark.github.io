@@ -524,14 +524,14 @@
             </div>
             <br />
             <div class="model-labels-container">
-              <span class="leaderboard-label human_expert">Human Expert</span>
+              <!-- <span class="leaderboard-label human_expert">Human Expert</span> -->
               <span class="leaderboard-label open_source">Open-Source</span>
               <span class="leaderboard-label proprietary">Proprietary</span>
             </div>
             <br />
             <div class="content has-text-centered">
               <p>
-                Click on MMMU-Pro, MMMU (Val) or MMMU (Test) to expand detailed
+                Click on Instruction Following, Physics Adherence or Common Sense to expand detailed
                 results.
               </p>
             </div>
@@ -548,13 +548,13 @@
                         Reset
                       </th>
                       <th class="pro-details-cell clickable" colspan="1">
-                        MMMU-Pro
+                        Instruction Following
                       </th>
                       <th class="val-details-cell clickable" colspan="1">
-                        MMMU(Val)
+                        Physics Adherence
                       </th>
                       <th class="test-details-cell clickable" colspan="1">
-                        MMMU(Test)
+                        Common Sense
                       </th>
                     </tr>
                     <tr>
@@ -573,13 +573,19 @@
                         class="hidden pro-details sortable clickable"
                         data-sort="number"
                       >
-                        Vision
+                        Level 1
                       </th>
                       <th
                         class="hidden pro-details sortable clickable"
                         data-sort="number"
                       >
-                        Standard
+                        Level 2
+                      </th>
+                      <th
+                        class="hidden pro-details sortable clickable"
+                        data-sort="number"
+                      >
+                        Level 3
                       </th>
                       <th
                         class="sortable clickable val-overall"
@@ -591,37 +597,31 @@
                         class="hidden val-details sortable clickable"
                         data-sort="number"
                       >
-                        Art & Design
+                        Newton
                       </th>
                       <th
                         class="hidden val-details sortable clickable"
                         data-sort="number"
                       >
-                        Business
+                        Deformation
                       </th>
                       <th
                         class="hidden val-details sortable clickable"
                         data-sort="number"
                       >
-                        Science
+                        Fluid
                       </th>
                       <th
                         class="hidden val-details sortable clickable"
                         data-sort="number"
                       >
-                        Health & Medicine
+                        Penetration
                       </th>
                       <th
                         class="hidden val-details sortable clickable"
                         data-sort="number"
                       >
-                        Human. & Social Sci.
-                      </th>
-                      <th
-                        class="hidden val-details sortable clickable"
-                        data-sort="number"
-                      >
-                        Tech & Eng.
+                        Gravity
                       </th>
                       <th
                         class="sortable clickable test-overall"
@@ -633,37 +633,13 @@
                         class="hidden test-details sortable clickable"
                         data-sort="number"
                       >
-                        Art & Design
+                        Frame-wise
                       </th>
                       <th
                         class="hidden test-details sortable clickable"
                         data-sort="number"
                       >
-                        Business
-                      </th>
-                      <th
-                        class="hidden test-details sortable clickable"
-                        data-sort="number"
-                      >
-                        Science
-                      </th>
-                      <th
-                        class="hidden test-details sortable clickable"
-                        data-sort="number"
-                      >
-                        Health & Medicine
-                      </th>
-                      <th
-                        class="hidden test-details sortable clickable"
-                        data-sort="number"
-                      >
-                        Human. & Social Sci.
-                      </th>
-                      <th
-                        class="hidden test-details sortable clickable"
-                        data-sort="number"
-                      >
-                        Tech & Eng.
+                        Temporal
                       </th>
                     </tr>
                   </thead>
