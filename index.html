@@ -332,7 +332,7 @@
                 real-world applications such as Robotics, Driving, Industry,
                 Human Activities, Gaming, Animation, and Natural, along with
                 detailed subdomains illustrated in the figure. Each domain
-                features 50 carefully curated prompts, comprising a text
+                features <b>50</b> carefully curated prompts, comprising a text
                 description and an initial video frame, tailored for video
                 generation. These prompts were meticulously collected by a team
                 of college students (including coauthors) from existing
@@ -353,8 +353,8 @@
                 real-world physics.
               </p>
               <p>
-                Specificallym, for <b>Physical Adherence</b>, we investigate the
-                <b>5</b> most common physical hallucinations (violations of
+                Specificallym, for the <b>Physical Adherence</b>, we investigate
+                the <b>5</b> most common physical hallucinations (violations of
                 real-world physical laws) observed in video generation models,
                 as shown in the gallery below.
               </p>
@@ -428,28 +428,29 @@
             <h2 class="title is-3">Comparisons with Existing Benchmarks</h2>
             <div class="content has-text-justified">
               <p>
-                To further distinguish the difference between <i>dataset</i> and
-                other existing ones, we elaborate the benchmark details in
-                Figure. From the <i>breadth</i> perspective, the prior
-                benchmarks are heavily focused on daily knowledge and common
-                sense. The covered image format is also limited. Our benchmark
-                aims to cover college-level knowledge with 30 image formats
-                including diagrams, tables, charts, chemical structures, photos,
-                paintings, geometric shapes, music sheets, medical images, etc.
-                In the <i>depth</i> aspect, the previous benchmarks normally
-                require commonsense knowledge or simple physical or temporal
-                reasoning. In contrast, our benchmark requires deliberate
-                reasoning with college-level subject knowledge.
+                To clearly highlight the distinction between our
+                <i>WorldModelBench</i> and other existing benchmarks, we
+                providea detailed comparison in the table below. From the
+                <i>Metrics</i> perspective, prior benchmarks are heavily focused
+                on visual quality and instruction following. In contrast, our
+                benchmark places a stronger emphasis on assessing video
+                generation based on its adherence to real world physical laws.
+                Regarding <i>Judging</i>, previous benchmarks often rely on
+                implicit representation similarity or sparse human labels. In
+                comparison, our benchmark involves a fine-grained humna-aligned
+                judge, ensuring a more precise and reliable assessment of video
+                generation results. This focus on physical accuracy and
+                fine-grained judgment sets WorldModelBench apart.
               </p>
               <div class="content has-text-centered">
                 <img
-                  src="static/images/compare.Jpeg"
+                  src="static/images/wmb/benchmark_comparison.jpg"
                   alt="algebraic reasoning"
                   class="center"
                 />
                 <p>
-                  Sampled MMMU examples from each discipline. The questions and
-                  images need expert-level knowledge to understand and reason.
+                  Comparison of WorldModelBench with other common benchmarks for
+                  evaluating video generation models.
                 </p>
               </div>
             </div>
