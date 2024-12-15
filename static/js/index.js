@@ -33,6 +33,7 @@ function loadTableData() {
 
       // Prepare data for styling
       const proScores = prepareScoresForStyling(data.leaderboardData, "pro");
+      console.log("Pro Scores: ", proScores);
       const valScores = prepareScoresForStyling(
         data.leaderboardData,
         "validation"
