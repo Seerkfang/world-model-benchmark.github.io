@@ -32,7 +32,9 @@ function loadTableData() {
       const tbody = document.querySelector("#mmmu-table tbody");
 
       // Prepare data for styling
+      console.log("start processing...")
       const proScores = prepareScoresForStyling(data.leaderboardData, "pro");
+      console.log("finish processing pro: ", proScores)
       const valScores = prepareScoresForStyling(
         data.leaderboardData,
         "validation"
