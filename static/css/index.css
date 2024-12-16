@@ -1,5 +1,5 @@
 body {
-  font-family: 'Noto Sans', sans-serif;
+  font-family: "Noto Sans", sans-serif;
 }
 
 .footer .icon-link {
@@ -45,7 +45,7 @@ body {
 }
 
 .teaser {
-  font-family: 'Google Sans', sans-serif;
+  font-family: "Google Sans", sans-serif;
 }
 
 .publication-links {
@@ -71,7 +71,7 @@ body {
 
 .publication-title,
 .publication-authors {
-  font-family: 'Google Sans', sans-serif;
+  font-family: "Google Sans", sans-serif;
 }
 
 .publication-venue {
@@ -219,11 +219,11 @@ body {
 }
 
 .asc::after {
-  content: ' ↑';
+  content: " ↑";
 }
 
 .desc::after {
-  content: ' ↓';
+  content: " ↓";
 }
 
 table {
@@ -234,7 +234,8 @@ table {
   font-size: 14px;
 }
 
-th, td {
+th,
+td {
   text-align: left;
   padding: 8px;
   white-space: normal;
@@ -285,22 +286,23 @@ td:hover {
 }
 
 @media screen and (max-width: 768px) {
-  th, td {
+  th,
+  td {
     min-width: 100px;
   }
 }
 
-#mmmu-table {
+#worldmodelbench-table {
   table-layout: auto;
   width: 100%;
 }
 
-#mmmu-table th:not(:first-child),
-#mmmu-table td:not(:first-child) {
+#worldmodelbench-table th:not(:first-child),
+#worldmodelbench-table td:not(:first-child) {
   width: auto;
 }
 
-#mmmu-table tbody td:first-child {
+#worldmodelbench-table tbody td:first-child {
   text-align: left !important;
 }
 
@@ -316,10 +318,11 @@ td:hover {
   margin: 4px 2px;
   cursor: pointer;
   border-radius: 25px;
-  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
   transition-duration: 0.4s;
 }
 
 #toggleButton:hover {
-  box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+  box-shadow: 0 12px 16px 0 rgba(0, 0, 0, 0.24),
+    0 17px 50px 0 rgba(0, 0, 0, 0.19);
 }
