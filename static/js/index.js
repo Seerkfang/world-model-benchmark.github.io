@@ -61,12 +61,10 @@ function loadTableData() {
             source === "author" ? `&nbsp;${value || "-"}*` : `${value || "-"}`;
           return adjustedValue;
         };
-        console.log("start to get overall...");
         const proOverall = formatOverallValue(
           applyStyle(safeGet(row, "pro.overall"), proScores.overall[index]),
           safeGet(row, "pro.source")
         );
-        console.log("finish to get overall", proOverall);
         const valOverall = formatOverallValue(
           applyStyle(
             safeGet(row, "validation.overall"),

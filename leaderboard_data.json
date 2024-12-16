@@ -2,7 +2,7 @@
   "leaderboardData": [
     {
       "info": {
-        "name": "kling",
+        "name": "KLING",
         "size": "-",
         "date": "2024-11-15",
         "type": "proprietary"
@@ -32,7 +32,7 @@
     },
     {
       "info": {
-        "name": "minimax",
+        "name": "Minimax",
         "size": "-",
         "date": "2024-11-15",
         "type": "proprietary"
@@ -62,7 +62,7 @@
     },
     {
       "info": {
-        "name": "mochi-official",
+        "name": "Mochi 1-official",
         "size": "-",
         "date": "2024-11-15",
         "type": "proprietary"
@@ -92,7 +92,7 @@
     },
     {
       "info": {
-        "name": "runway",
+        "name": "Runway",
         "size": "-",
         "date": "2024-11-15",
         "type": "proprietary"
@@ -122,7 +122,7 @@
     },
     {
       "info": {
-        "name": "luma",
+        "name": "Luma",
         "size": "-",
         "date": "2024-11-15",
         "type": "proprietary"
@@ -152,7 +152,7 @@
     },
     {
       "info": {
-        "name": "mochi",
+        "name": "Mochi 1",
         "size": "-",
         "date": "2024-11-15",
         "type": "open_source"
