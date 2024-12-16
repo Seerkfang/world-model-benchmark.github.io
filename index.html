@@ -294,21 +294,23 @@
                 We introduce WorldModelBench, a benchmark designed to evaluate
                 the <b>world modeling capabilities</b> of video generation
                 models across <b>7</b> application-driven domains and
-                <b>56</b> subdomains, offering <b>two key advantages</b>: (1)
-                <b>Against to nuanced world modeling violations</b>: By
-                incorporating instruction-following and physics-adherence
-                dimensions, WorldModelBench detects subtle violations, such as
+                <b>56</b> subdomains. WorldModelBench offers
+                <b>two key advantages</b>: (1)
+                <b>Detection of nuanced world modeling violations</b>: By
+                incorporating instruction following and physics adherence
+                dimensions, our benchmark detects subtle violations, such as
                 irregular changes in object size that breach the mass
-                conservation law—issues overlooked by prior benchmarks. (2)
-                <b>Aligned with large-scale human preferences</b>: We
+                conservation law — issues often overlooked by existing
+                benchmarks. (2)
+                <b>Alignment with large-scale human preferences</b>: We
                 crowd-source <b>67K</b> human labels to accurately measure
-                <b>14</b> frontier models. Using our high-quality human labels,
-                we further fine-tune an accurate judger to automate the
+                <b>14</b> frontier models. Leveraging these high-quality human
+                annotations, we fine-tune a 2B multimodal judger to automate the
                 evaluation procedure, achieving <b>8.6%</b> higher avereage
-                accuracy in predicting world modeling violations than GPT-4o
-                with 2B parameters. We believe WorldModelBench will stimulate
-                the community to build next-generation world models towards
-                expert world simulators.
+                accuracy in predicting world modeling violations compared to
+                GPT-4o. We believe WorldModelBench will stimulate the community
+                to build next-generation world models towards expert world
+                simulators.
               </p>
             </div>
           </div>
