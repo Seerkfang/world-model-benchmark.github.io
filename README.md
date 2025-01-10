@@ -1,4 +1,4 @@
-# MMMU
+# WorldModelBench
 Homepage of WorldModelBench, A Multi-discipline and Multi-domain Benchmark for World Models.
 
 This website is adapted from [Nerfies website](https://nerfies.github.io), [MathVista](https://mathvista.github.io/), and [MMMU](https://mmmu-benchmark.github.io/).
