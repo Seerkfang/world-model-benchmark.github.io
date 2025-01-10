@@ -9,24 +9,24 @@
       },
       "validation": {
         "overall": "92.2",
-        "newton": "0.93",
-        "mass": "0.93",
-        "fluid": "0.88",
-        "penetration": "0.96",
-        "gravity": "0.93",
+        "newton": "93",
+        "mass": "93",
+        "fluid": "88",
+        "penetration": "96",
+        "gravity": "93",
         "source": "author"
       },
       "pro": {
         "overall": "93.0",
-        "frameWise": "0.94",
-        "temporal": "0.92",
+        "frameWise": "94",
+        "temporal": "92",
         "source": "author"
       },
       "test": {
         "overall": "78.7",
-        "level1": "0.98",
-        "level2": "0.77",
-        "level3": "0.61",
+        "level1": "98",
+        "level2": "77",
+        "level3": "61",
         "source": "author"
       }
     },
@@ -38,25 +38,25 @@
         "type": "proprietary"
       },
       "validation": {
-        "overall": "90.3",
-        "newton": "0.93",
-        "mass": "0.93",
-        "fluid": "0.81",
-        "penetration": "0.96",
-        "gravity": "0.94",
+        "overall": "93",
+        "newton": "93",
+        "mass": "93",
+        "fluid": "81",
+        "penetration": "96",
+        "gravity": "94",
         "source": "author"
       },
       "pro": {
         "overall": "89.5",
-        "frameWise": "0.91",
-        "temporal": "0.88",
+        "frameWise": "91",
+        "temporal": "88",
         "source": "author"
       },
       "test": {
         "overall": "76.3",
-        "level1": "0.97",
-        "level2": "0.76",
-        "level3": "0.56",
+        "level1": "97",
+        "level2": "76",
+        "level3": "56",
         "source": "author"
       }
     },
@@ -69,24 +69,24 @@
       },
       "validation": {
         "overall": "91.0",
-        "newton": "0.94",
-        "mass": "0.82",
-        "fluid": "0.99",
-        "penetration": "0.92",
-        "gravity": "0.98",
+        "newton": "94",
+        "mass": "82",
+        "fluid": "99",
+        "penetration": "92",
+        "gravity": "98",
         "source": "author"
       },
       "pro": {
         "overall": "86.0",
-        "frameWise": "0.89",
-        "temporal": "0.83",
+        "frameWise": "89",
+        "temporal": "83",
         "source": "author"
       },
       "test": {
         "overall": "67.0",
-        "level1": "0.94",
-        "level2": "0.62",
-        "level3": "0.45",
+        "level1": "94",
+        "level2": "62",
+        "level3": "45",
         "source": "author"
       }
     },
@@ -99,24 +99,24 @@
       },
       "validation": {
         "overall": "89.4",
-        "newton": "0.91",
-        "mass": "0.69",
-        "fluid": "0.94",
-        "penetration": "0.82",
-        "gravity": "0.91",
+        "newton": "91",
+        "mass": "69",
+        "fluid": "94",
+        "penetration": "82",
+        "gravity": "91",
         "source": "author"
       },
       "pro": {
         "overall": "82.5",
-        "frameWise": "0.87",
-        "temporal": "0.78",
+        "frameWise": "87",
+        "temporal": "78",
         "source": "author"
       },
       "test": {
         "overall": "71.7",
-        "level1": "0.97",
-        "level2": "0.68",
-        "level3": "0.50",
+        "level1": "97",
+        "level2": "68",
+        "level3": "50",
         "source": "author"
       }
     },
@@ -129,24 +129,24 @@
       },
       "validation": {
         "overall": "83.4",
-        "newton": "0.89",
-        "mass": "0.62",
-        "fluid": "0.95",
-        "penetration": "0.77",
-        "gravity": "0.90",
+        "newton": "89",
+        "mass": "62",
+        "fluid": "95",
+        "penetration": "77",
+        "gravity": "90",
         "source": "author"
       },
       "pro": {
         "overall": "78.5",
-        "frameWise": "0.81",
-        "temporal": "0.76",
+        "frameWise": "81",
+        "temporal": "76",
         "source": "author"
       },
       "test": {
         "overall": "67.0",
-        "level1": "0.97",
-        "level2": "0.60",
-        "level3": "0.44",
+        "level1": "97",
+        "level2": "60",
+        "level3": "44",
         "source": "author"
       }
     },
@@ -159,24 +159,24 @@
       },
       "validation": {
         "overall": "78.8",
-        "newton": "0.94",
-        "mass": "0.58",
-        "fluid": "0.97",
-        "penetration": "0.71",
-        "gravity": "0.90",
+        "newton": "94",
+        "mass": "58",
+        "fluid": "97",
+        "penetration": "71",
+        "gravity": "90",
         "source": "author"
       },
       "pro": {
         "overall": "63.0",
-        "frameWise": "0.63",
-        "temporal": "0.63",
+        "frameWise": "63",
+        "temporal": "63",
         "source": "author"
       },
       "test": {
         "overall": "74.0",
-        "level1": "0.96",
-        "level2": "0.73",
-        "level3": "0.53",
+        "level1": "96",
+        "level2": "73",
+        "level3": "53",
         "source": "author"
       }
     },
@@ -189,24 +189,24 @@
       },
       "validation": {
         "overall": "87.2",
-        "newton": "0.90",
-        "mass": "0.66",
-        "fluid": "0.97",
-        "penetration": "0.89",
-        "gravity": "0.93",
+        "newton": "90",
+        "mass": "66",
+        "fluid": "97",
+        "penetration": "89",
+        "gravity": "93",
         "source": "author"
       },
       "pro": {
         "overall": "73.5",
-        "frameWise": "0.70",
-        "temporal": "0.77",
+        "frameWise": "70",
+        "temporal": "77",
         "source": "author"
       },
       "test": {
         "overall": "59.0",
-        "level1": "0.89",
-        "level2": "0.53",
-        "level3": "0.37",
+        "level1": "89",
+        "level2": "53",
+        "level3": "37",
         "source": "author"
       }
     },
@@ -219,24 +219,24 @@
       },
       "validation": {
         "overall": "77.8",
-        "newton": "0.91",
-        "mass": "0.52",
-        "fluid": "0.96",
-        "penetration": "0.74",
-        "gravity": "0.95",
+        "newton": "91",
+        "mass": "52",
+        "fluid": "96",
+        "penetration": "74",
+        "gravity": "95",
         "source": "author"
       },
       "pro": {
         "overall": "56.5",
-        "frameWise": "0.60",
-        "temporal": "0.51",
+        "frameWise": "60",
+        "temporal": "51",
         "source": "author"
       },
       "test": {
         "overall": "61.7",
-        "level1": "0.96",
-        "level2": "0.69",
-        "level3": "0.46",
+        "level1": "96",
+        "level2": "69",
+        "level3": "46",
         "source": "author"
       }
     },
@@ -249,24 +249,24 @@
       },
       "validation": {
         "overall": "77.4",
-        "newton": "0.87",
-        "mass": "0.43",
-        "fluid": "0.95",
-        "penetration": "0.66",
-        "gravity": "0.96",
+        "newton": "87",
+        "mass": "43",
+        "fluid": "95",
+        "penetration": "66",
+        "gravity": "96",
         "source": "author"
       },
       "pro": {
         "overall": "49.5",
-        "frameWise": "0.56",
-        "temporal": "0.43",
+        "frameWise": "56",
+        "temporal": "43",
         "source": "author"
       },
       "test": {
         "overall": "58.7",
-        "level1": "0.89",
-        "level2": "0.59",
-        "level3": "0.41",
+        "level1": "89",
+        "level2": "59",
+        "level3": "41",
         "source": "author"
       }
     },
@@ -279,24 +279,24 @@
       },
       "validation": {
         "overall": "79.0",
-        "newton": "0.84",
-        "mass": "0.40",
-        "fluid": "0.95",
-        "penetration": "0.75",
-        "gravity": "0.96",
+        "newton": "84",
+        "mass": "40",
+        "fluid": "95",
+        "penetration": "75",
+        "gravity": "96",
         "source": "author"
       },
       "pro": {
         "overall": "49.0",
-        "frameWise": "0.47",
-        "temporal": "0.51",
+        "frameWise": "47",
+        "temporal": "51",
         "source": "author"
       },
       "test": {
         "overall": "51.7",
-        "level1": "0.83",
-        "level2": "0.49",
-        "level3": "0.28",
+        "level1": "83",
+        "level2": "49",
+        "level3": "28",
         "source": "author"
       }
     },
@@ -309,24 +309,24 @@
       },
       "validation": {
         "overall": "72.0",
-        "newton": "0.80",
-        "mass": "0.25",
-        "fluid": "0.92",
-        "penetration": "0.60",
-        "gravity": "0.94",
+        "newton": "80",
+        "mass": "25",
+        "fluid": "92",
+        "penetration": "60",
+        "gravity": "94",
         "source": "author"
       },
       "pro": {
         "overall": "31.0",
-        "frameWise": "0.37",
-        "temporal": "0.25",
+        "frameWise": "37",
+        "temporal": "25",
         "source": "author"
       },
       "test": {
         "overall": "53.3",
-        "level1": "0.83",
-        "level2": "0.49",
-        "level3": "0.28",
+        "level1": "83",
+        "level2": "49",
+        "level3": "28",
         "source": "author"
       }
     }
