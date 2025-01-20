@@ -183,8 +183,10 @@ function toggleDetails(section) {
         "colspan",
         headerCell.getAttribute("colspan") === "1"
           ? sec === "pro"
-            ? "3"
-            : "7"
+            ? "4"
+            : sec === "val"
+            ? "6"
+            : "3"
           : "1"
       );
     } else {
