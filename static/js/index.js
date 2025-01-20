@@ -81,12 +81,12 @@ function loadTableData() {
               <td>${nameCell}</td>
               <td>${row.info.size}</td>
               <td>${row.info.date}</td>
-              <td class="pro-overall">${proOverall}</td>
-              <td class="hidden pro-details">${applyStyle(
+              <td class="test-overall">${testOverall}</td>
+              <td class="hidden test-details">${applyStyle(
                 safeGet(row, "test.frameWise"),
                 testScores.frameWise[index]
               )}</td>
-              <td class="hidden pro-details">${applyStyle(
+              <td class="hidden test-details">${applyStyle(
                 safeGet(row, "test.temporal"),
                 testScores.temporal[index]
               )}</td>
@@ -111,16 +111,16 @@ function loadTableData() {
                 safeGet(row, "validation.gravity"),
                 valScores.gravity[index]
               )}</td>
-              <td class="test-overall">${testOverall}</td>
-              <td class="hidden test-details">${applyStyle(
+              <td class="pro-overall">${proOverall}</td>
+              <td class="hidden pro-details">${applyStyle(
                 safeGet(row, "pro.level1"),
                 proScores.level1[index]
               )}</td>
-              <td class="hidden test-details">${applyStyle(
+              <td class="hidden pro-details">${applyStyle(
                 safeGet(row, "pro.level2"),
                 proScores.level2[index]
               )}</td>
-              <td class="hidden test-details">${applyStyle(
+              <td class="hidden pro-details">${applyStyle(
                 safeGet(row, "pro.level3"),
                 proScores.level3[index]
               )}</td>
