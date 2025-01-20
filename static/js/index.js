@@ -83,12 +83,12 @@ function loadTableData() {
               <td>${row.info.date}</td>
               <td class="pro-overall">${proOverall}</td>
               <td class="hidden pro-details">${applyStyle(
-                safeGet(row, "pro.frameWise"),
-                proScores.frameWise[index]
+                safeGet(row, "test.frameWise"),
+                testScores.frameWise[index]
               )}</td>
               <td class="hidden pro-details">${applyStyle(
-                safeGet(row, "pro.temporal"),
-                proScores.temporal[index]
+                safeGet(row, "test.temporal"),
+                testScores.temporal[index]
               )}</td>
               <td class="val-overall">${valOverall}</td>
               <td class="hidden val-details">${applyStyle(
@@ -113,16 +113,16 @@ function loadTableData() {
               )}</td>
               <td class="test-overall">${testOverall}</td>
               <td class="hidden test-details">${applyStyle(
-                safeGet(row, "test.level1"),
-                testScores.level1[index]
+                safeGet(row, "pro.level1"),
+                proScores.level1[index]
               )}</td>
               <td class="hidden test-details">${applyStyle(
-                safeGet(row, "test.level2"),
-                testScores.level2[index]
+                safeGet(row, "pro.level2"),
+                proScores.level2[index]
               )}</td>
               <td class="hidden test-details">${applyStyle(
-                safeGet(row, "test.level3"),
-                testScores.level3[index]
+                safeGet(row, "pro.level3"),
+                proScores.level3[index]
               )}</td>
             `;
         tbody.appendChild(tr);
