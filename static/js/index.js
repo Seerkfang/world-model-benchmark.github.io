@@ -213,7 +213,7 @@ function resetTable() {
     });
 
   document
-    .querySelectorAll(".pro-overall, .val-overall, .test-overall")
+    .querySelectorAll(".pro-overall, .val-overall, .test-overall, .total-overall")
     .forEach(function (cell) {
       cell.classList.remove("hidden");
     });
