@@ -28,6 +28,10 @@
         "level2": "77",
         "level3": "61",
         "source": "author"
+      },
+      "total": {
+        "overall": "9.1",
+        "source": "author"
       }
     },
     {
@@ -57,6 +61,10 @@
         "level1": "97",
         "level2": "76",
         "level3": "56",
+        "source": "author"
+      },
+      "total": {
+        "overall": "8.9",
         "source": "author"
       }
     },
@@ -88,6 +96,10 @@
         "level2": "62",
         "level3": "45",
         "source": "author"
+      },
+      "total": {
+        "overall": "8.7",
+        "source": "author"
       }
     },
     {
@@ -117,6 +129,10 @@
         "level1": "97",
         "level2": "68",
         "level3": "50",
+        "source": "author"
+      },
+      "total": {
+        "overall": "8.6",
         "source": "author"
       }
     },
@@ -148,6 +164,10 @@
         "level2": "60",
         "level3": "44",
         "source": "author"
+      },
+      "total": {
+        "overall": "8.2",
+        "source": "author"
       }
     },
     {
@@ -177,6 +197,10 @@
         "level1": "96",
         "level2": "73",
         "level3": "53",
+        "source": "author"
+      },
+      "total": {
+        "overall": "7.9",
         "source": "author"
       }
     },
@@ -208,6 +232,10 @@
         "level2": "53",
         "level3": "37",
         "source": "author"
+      },
+      "total": {
+        "overall": "8.0",
+        "source": "author"
       }
     },
     {
@@ -237,6 +265,10 @@
         "level1": "96",
         "level2": "69",
         "level3": "46",
+        "source": "author"
+      },
+      "total": {
+        "overall": "7.7",
         "source": "author"
       }
     },
@@ -268,6 +300,10 @@
         "level2": "59",
         "level3": "41",
         "source": "author"
+      },
+      "total": {
+        "overall": "7.1",
+        "source": "author"
       }
     },
     {
@@ -298,6 +334,10 @@
         "level2": "49",
         "level3": "28",
         "source": "author"
+      },
+      "total": {
+        "overall": "6.2",
+        "source": "author"
       }
     },
     {
@@ -327,6 +367,10 @@
         "level1": "83",
         "level2": "49",
         "level3": "28",
+        "source": "author"
+      },
+      "total": {
+        "overall": "5.8",
         "source": "author"
       }
     }

@@ -38,6 +38,7 @@ function loadTableData() {
         "validation"
       );
       const testScores = prepareScoresForStyling(data.leaderboardData, "test");
+      const totalScores = prepareScoresForStyling(data.leaderboardData, "total");
       console.log("finish processing scores: ", testScores);
 
       data.leaderboardData.forEach((row, index) => {
@@ -75,6 +76,10 @@ function loadTableData() {
         const testOverall = formatOverallValue(
           applyStyle(safeGet(row, "test.overall"), testScores.overall[index]),
           safeGet(row, "test.source")
+        );
+        const totalOverall = formatOverallValue(
+          applyStyle(safeGet(row, "total.overall"), totalScores.overall[index]),
+          safeGet(row, "total.source")
         );
 
         tr.innerHTML = `
@@ -124,6 +129,7 @@ function loadTableData() {
                 safeGet(row, "test.temporal"),
                 testScores.temporal[index]
               )}</td>
+              <td class="total-overall">${totalOverall}</td>
             `;
         tbody.appendChild(tr);
       });
@@ -216,10 +222,14 @@ function resetTable() {
   document.querySelector(".val-details-cell").setAttribute("colspan", "1");
   document.querySelector(".test-details-cell").setAttribute("colspan", "1");
 
-  var valOverallHeader = document.querySelector(
-    "#worldmodelbench-table thead tr:last-child th.val-overall"
+  // var valOverallHeader = document.querySelector(
+  //   "#worldmodelbench-table thead tr:last-child th.val-overall"
+  // );
+  // sortTable(valOverallHeader, true);
+  var totalOverallHeader = document.querySelector(
+    "#worldmodelbench-table thead tr:last-child th.total-overall"
   );
-  sortTable(valOverallHeader, true);
+  sortTable(totalOverallHeader, true);
 
   setTimeout(adjustNameColumnWidth, 0);
 }
@@ -309,16 +319,28 @@ function getCellValue(row, index) {
             c.classList.contains("test-details")) &&
           !c.classList.contains("hidden")
       );
+    } else if (
+      cell.classList.contains("total-overall")
+    ) {
+      cell = cells.find(
+        (c) =>
+          (c.classList.contains("total-overall")) &&
+          !c.classList.contains("hidden")
+      );
     }
   }
   return cell ? cell.textContent.trim() : "";
 }
 
 function initializeSorting() {
-  var valOverallHeader = document.querySelector(
-    "#worldmodelbench-table thead tr:last-child th.val-overall"
+  var totalOverallHeader = document.querySelector(
+    "#worldmodelbench-table thead tr:last-child th.total-overall"
   );
-  sortTable(valOverallHeader, true);
+  sortTable(totalOverallHeader, true);
+  // var valOverallHeader = document.querySelector(
+  //   "#worldmodelbench-table thead tr:last-child th.val-overall"
+  // );
+  // sortTable(valOverallHeader, true);
 }
 
 function adjustNameColumnWidth() {
