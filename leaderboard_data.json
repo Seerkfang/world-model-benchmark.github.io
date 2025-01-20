@@ -16,13 +16,13 @@
         "gravity": "93",
         "source": "author"
       },
-      "pro": {
+      "test": {
         "overall": "93.0",
         "frameWise": "94",
         "temporal": "92",
         "source": "author"
       },
-      "test": {
+      "pro": {
         "overall": "78.7",
         "level1": "98",
         "level2": "77",
@@ -46,13 +46,13 @@
         "gravity": "94",
         "source": "author"
       },
-      "pro": {
+      "test": {
         "overall": "89.5",
         "frameWise": "91",
         "temporal": "88",
         "source": "author"
       },
-      "test": {
+      "pro": {
         "overall": "76.3",
         "level1": "97",
         "level2": "76",
@@ -76,13 +76,13 @@
         "gravity": "98",
         "source": "author"
       },
-      "pro": {
+      "test": {
         "overall": "86.0",
         "frameWise": "89",
         "temporal": "83",
         "source": "author"
       },
-      "test": {
+      "pro": {
         "overall": "67.0",
         "level1": "94",
         "level2": "62",
@@ -106,13 +106,13 @@
         "gravity": "91",
         "source": "author"
       },
-      "pro": {
+      "test": {
         "overall": "82.5",
         "frameWise": "87",
         "temporal": "78",
         "source": "author"
       },
-      "test": {
+      "pro": {
         "overall": "71.7",
         "level1": "97",
         "level2": "68",
@@ -136,13 +136,13 @@
         "gravity": "90",
         "source": "author"
       },
-      "pro": {
+      "test": {
         "overall": "78.5",
         "frameWise": "81",
         "temporal": "76",
         "source": "author"
       },
-      "test": {
+      "pro": {
         "overall": "67.0",
         "level1": "97",
         "level2": "60",
@@ -166,13 +166,13 @@
         "gravity": "90",
         "source": "author"
       },
-      "pro": {
+      "test": {
         "overall": "63.0",
         "frameWise": "63",
         "temporal": "63",
         "source": "author"
       },
-      "test": {
+      "pro": {
         "overall": "74.0",
         "level1": "96",
         "level2": "73",
@@ -196,13 +196,13 @@
         "gravity": "93",
         "source": "author"
       },
-      "pro": {
+      "test": {
         "overall": "73.5",
         "frameWise": "70",
         "temporal": "77",
         "source": "author"
       },
-      "test": {
+      "pro": {
         "overall": "59.0",
         "level1": "89",
         "level2": "53",
@@ -226,13 +226,13 @@
         "gravity": "95",
         "source": "author"
       },
-      "pro": {
+      "test": {
         "overall": "56.5",
         "frameWise": "60",
         "temporal": "51",
         "source": "author"
       },
-      "test": {
+      "pro": {
         "overall": "61.7",
         "level1": "96",
         "level2": "69",
@@ -256,13 +256,13 @@
         "gravity": "96",
         "source": "author"
       },
-      "pro": {
+      "test": {
         "overall": "49.5",
         "frameWise": "56",
         "temporal": "43",
         "source": "author"
       },
-      "test": {
+      "pro": {
         "overall": "58.7",
         "level1": "89",
         "level2": "59",
@@ -286,13 +286,13 @@
         "gravity": "96",
         "source": "author"
       },
-      "pro": {
+      "test": {
         "overall": "49.0",
         "frameWise": "47",
         "temporal": "51",
         "source": "author"
       },
-      "test": {
+      "pro": {
         "overall": "51.7",
         "level1": "83",
         "level2": "49",
@@ -316,13 +316,13 @@
         "gravity": "94",
         "source": "author"
       },
-      "pro": {
+      "test": {
         "overall": "31.0",
         "frameWise": "37",
         "temporal": "25",
         "source": "author"
       },
-      "test": {
+      "pro": {
         "overall": "53.3",
         "level1": "83",
         "level2": "49",
