@@ -8,29 +8,29 @@
         "type": "proprietary"
       },
       "validation": {
-        "overall": "92.2",
-        "newton": "93",
-        "mass": "93",
-        "fluid": "88",
-        "penetration": "96",
-        "gravity": "93",
+        "overall": "4.81",
+        "newton": "1.00",
+        "mass": "0.90",
+        "fluid": "1.00",
+        "penetration": "0.93",
+        "gravity": "0.99",
         "source": "author"
       },
       "test": {
-        "overall": "93.0",
-        "frameWise": "94",
-        "temporal": "92",
+        "overall": "1.95",
+        "frameWise": "0.99",
+        "temporal": "0.97",
         "source": "author"
       },
       "pro": {
-        "overall": "78.7",
-        "level1": "98",
-        "level2": "77",
-        "level3": "61",
+        "overall": "2.32",
+        "level1": "0.99",
+        "level2": "0.68",
+        "level3": "0.65",
         "source": "author"
       },
       "total": {
-        "overall": "9.1",
+        "overall": "9.10",
         "source": "author"
       }
     },
@@ -42,29 +42,29 @@
         "type": "proprietary"
       },
       "validation": {
-        "overall": "93",
-        "newton": "93",
-        "mass": "93",
-        "fluid": "81",
-        "penetration": "96",
-        "gravity": "94",
+        "overall": "4.72",
+        "newton": "1.00",
+        "mass": "0.86",
+        "fluid": "0.99",
+        "penetration": "0.88",
+        "gravity": "0.99",
         "source": "author"
       },
       "test": {
-        "overall": "89.5",
-        "frameWise": "91",
-        "temporal": "88",
+        "overall": "1.92",
+        "frameWise": "0.99",
+        "temporal": "0.93",
         "source": "author"
       },
       "pro": {
-        "overall": "76.3",
-        "level1": "97",
-        "level2": "76",
-        "level3": "56",
+        "overall": "2.28",
+        "level1": "0.98",
+        "level2": "0.67",
+        "level3": "0.63",
         "source": "author"
       },
       "total": {
-        "overall": "8.9",
+        "overall": "8.92",
         "source": "author"
       }
     },
@@ -76,29 +76,29 @@
         "type": "proprietary"
       },
       "validation": {
-        "overall": "91.0",
-        "newton": "94",
-        "mass": "82",
-        "fluid": "99",
-        "penetration": "92",
-        "gravity": "98",
+        "overall": "4.80",
+        "newton": "1.00",
+        "mass": "0.88",
+        "fluid": "1.00",
+        "penetration": "0.93",
+        "gravity": "0.99",
         "source": "author"
       },
       "test": {
-        "overall": "86.0",
-        "frameWise": "89",
-        "temporal": "83",
+        "overall": "1.86",
+        "frameWise": "0.97",
+        "temporal": "0.89",
         "source": "author"
       },
       "pro": {
-        "overall": "67.0",
-        "level1": "94",
-        "level2": "62",
-        "level3": "45",
+        "overall": "2.0",
+        "level1": "0.98",
+        "level2": "0.53",
+        "level3": "0.49",
         "source": "author"
       },
       "total": {
-        "overall": "8.7",
+        "overall": "8.66",
         "source": "author"
       }
     },
@@ -110,29 +110,29 @@
         "type": "proprietary"
       },
       "validation": {
-        "overall": "89.4",
-        "newton": "91",
-        "mass": "69",
-        "fluid": "94",
-        "penetration": "82",
-        "gravity": "91",
+        "overall": "4.60",
+        "newton": "1.0",
+        "mass": "0.77",
+        "fluid": "0.98",
+        "penetration": "0.89",
+        "gravity": "0.96",
         "source": "author"
       },
       "test": {
-        "overall": "82.5",
-        "frameWise": "87",
-        "temporal": "78",
+        "overall": "1.86",
+        "frameWise": "0.99",
+        "temporal": "0.87",
         "source": "author"
       },
       "pro": {
-        "overall": "71.7",
-        "level1": "97",
-        "level2": "68",
-        "level3": "50",
+        "overall": "2.17",
+        "level1": "0.98",
+        "level2": "0.61",
+        "level3": "0.57",
         "source": "author"
       },
       "total": {
-        "overall": "8.6",
+        "overall": "8.64",
         "source": "author"
       }
     },
@@ -144,29 +144,29 @@
         "type": "proprietary"
       },
       "validation": {
-        "overall": "83.4",
-        "newton": "89",
-        "mass": "62",
-        "fluid": "95",
-        "penetration": "77",
-        "gravity": "90",
+        "overall": "4.49",
+        "newton": "1.00",
+        "mass": "0.70",
+        "fluid": "0.98",
+        "penetration": "0.87",
+        "gravity": "0.95",
         "source": "author"
       },
       "test": {
-        "overall": "78.5",
-        "frameWise": "81",
-        "temporal": "76",
+        "overall": "1.76",
+        "frameWise": "0.96",
+        "temporal": "0.81",
         "source": "author"
       },
       "pro": {
-        "overall": "67.0",
-        "level1": "97",
-        "level2": "60",
-        "level3": "44",
+        "overall": "1.98",
+        "level1": "1.00",
+        "level2": "0.51",
+        "level3": "0.48",
         "source": "author"
       },
       "total": {
-        "overall": "8.2",
+        "overall": "8.24",
         "source": "author"
       }
     },
@@ -178,29 +178,29 @@
         "type": "open_source"
       },
       "validation": {
-        "overall": "78.8",
-        "newton": "94",
-        "mass": "58",
-        "fluid": "97",
-        "penetration": "71",
-        "gravity": "90",
+        "overall": "4.39",
+        "newton": "0.99",
+        "mass": "0.63",
+        "fluid": "0.99",
+        "penetration": "0.79",
+        "gravity": "0.98",
         "source": "author"
       },
       "test": {
-        "overall": "63.0",
-        "frameWise": "63",
-        "temporal": "63",
+        "overall": "1.45",
+        "frameWise": "0.78",
+        "temporal": "0.68",
         "source": "author"
       },
       "pro": {
-        "overall": "74.0",
-        "level1": "96",
-        "level2": "73",
-        "level3": "53",
+        "overall": "2.06",
+        "level1": "0.96",
+        "level2": "0.58",
+        "level3": "0.52",
         "source": "author"
       },
       "total": {
-        "overall": "7.9",
+        "overall": "7.91",
         "source": "author"
       }
     },
@@ -212,29 +212,29 @@
         "type": "open_source"
       },
       "validation": {
-        "overall": "87.2",
-        "newton": "90",
-        "mass": "66",
-        "fluid": "97",
-        "penetration": "89",
-        "gravity": "93",
+        "overall": "4.64",
+        "newton": "1.00",
+        "mass": "0.77",
+        "fluid": "0.99",
+        "penetration": "0.91",
+        "gravity": "0.98",
         "source": "author"
       },
       "test": {
-        "overall": "73.5",
-        "frameWise": "70",
-        "temporal": "77",
+        "overall": "1.68",
+        "frameWise": "0.83",
+        "temporal": "0.85",
         "source": "author"
       },
       "pro": {
-        "overall": "59.0",
-        "level1": "89",
-        "level2": "53",
-        "level3": "37",
+        "overall": "1.72",
+        "level1": "0.94",
+        "level2": "0.41",
+        "level3": "0.37",
         "source": "author"
       },
       "total": {
-        "overall": "8.0",
+        "overall": "8.04",
         "source": "author"
       }
     },
@@ -246,29 +246,29 @@
         "type": "open_source"
       },
       "validation": {
-        "overall": "77.8",
-        "newton": "91",
-        "mass": "52",
-        "fluid": "96",
-        "penetration": "74",
-        "gravity": "95",
+        "overall": "4.27",
+        "newton": "0.99",
+        "mass": "0.58",
+        "fluid": "0.99",
+        "penetration": "0.73",
+        "gravity": "0.98",
         "source": "author"
       },
       "test": {
-        "overall": "56.5",
-        "frameWise": "60",
-        "temporal": "51",
+        "overall": "1.35",
+        "frameWise": "0.75",
+        "temporal": "0.60",
         "source": "author"
       },
       "pro": {
-        "overall": "61.7",
-        "level1": "96",
-        "level2": "69",
-        "level3": "46",
+        "overall": "2.03",
+        "level1": "0.98",
+        "level2": "0.57",
+        "level3": "0.49",
         "source": "author"
       },
       "total": {
-        "overall": "7.7",
+        "overall": "7.65",
         "source": "author"
       }
     },
@@ -280,29 +280,29 @@
         "type": "open_source"
       },
       "validation": {
-        "overall": "77.4",
-        "newton": "87",
-        "mass": "43",
-        "fluid": "95",
-        "penetration": "66",
-        "gravity": "96",
+        "overall": "4.17",
+        "newton": "1.00",
+        "mass": "0.52",
+        "fluid": "0.99",
+        "penetration": "0.68",
+        "gravity": "0.99",
         "source": "author"
       },
       "test": {
-        "overall": "49.5",
-        "frameWise": "56",
-        "temporal": "43",
+        "overall": "1.12",
+        "frameWise": "0.61",
+        "temporal": "0.52",
         "source": "author"
       },
       "pro": {
-        "overall": "58.7",
-        "level1": "89",
-        "level2": "59",
-        "level3": "41",
+        "overall": "1.78",
+        "level1": "0.94",
+        "level2": "0.44",
+        "level3": "0.40",
         "source": "author"
       },
       "total": {
-        "overall": "7.1",
+        "overall": "7.08",
         "source": "author"
       }
     },
@@ -314,29 +314,29 @@
         "type": "open_source"
       },
       "validation": {
-        "overall": "79.0",
-        "newton": "84",
-        "mass": "40",
-        "fluid": "95",
-        "penetration": "75",
-        "gravity": "96",
+        "overall": "3.88",
+        "newton": "0.98",
+        "mass": "0.30",
+        "fluid": "0.98",
+        "penetration": "0.64",
+        "gravity": "0.97",
         "source": "author"
       },
       "test": {
-        "overall": "49.0",
-        "frameWise": "47",
-        "temporal": "51",
+        "overall": "0.69",
+        "frameWise": "0.40",
+        "temporal": "0.29",
         "source": "author"
       },
       "pro": {
-        "overall": "51.7",
-        "level1": "83",
-        "level2": "49",
-        "level3": "28",
+        "overall": "1.61",
+        "level1": "0.91",
+        "level2": "0.38",
+        "level3": "0.32",
         "source": "author"
       },
       "total": {
-        "overall": "6.2",
+        "overall": "6.17",
         "source": "author"
       }
     },
@@ -348,29 +348,97 @@
         "type": "open_source"
       },
       "validation": {
-        "overall": "72.0",
-        "newton": "80",
-        "mass": "25",
-        "fluid": "92",
-        "penetration": "60",
-        "gravity": "94",
+        "overall": "3.85",
+        "newton": "0.98",
+        "mass": "0.22",
+        "fluid": "0.98",
+        "penetration": "0.68",
+        "gravity": "0.98",
         "source": "author"
       },
       "test": {
-        "overall": "31.0",
-        "frameWise": "37",
-        "temporal": "25",
+        "overall": "0.55",
+        "frameWise": "0.36",
+        "temporal": "0.18",
         "source": "author"
       },
       "pro": {
-        "overall": "53.3",
-        "level1": "83",
-        "level2": "49",
-        "level3": "28",
+        "overall": "1.42",
+        "level1": "0.84",
+        "level2": "0.31",
+        "level3": "0.27",
         "source": "author"
       },
       "total": {
-        "overall": "5.8",
+        "overall": "5.82",
+        "source": "author"
+      }
+    },
+    {
+      "info": {
+        "name": "T2V-Turbo",
+        "size": "-",
+        "date": "2024-11-15",
+        "type": "open_source"
+      },
+      "validation": {
+        "overall": "4.10",
+        "newton": "0.99",
+        "mass": "0.41",
+        "fluid": "0.99",
+        "penetration": "0.73",
+        "gravity": "0.98",
+        "source": "author"
+      },
+      "test": {
+        "overall": "1.08",
+        "frameWise": "0.64",
+        "temporal": "0.44",
+        "source": "author"
+      },
+      "pro": {
+        "overall": "1.37",
+        "level1": "0.88",
+        "level2": "0.27",
+        "level3": "0.23",
+        "source": "author"
+      },
+      "total": {
+        "overall": "6.56",
+        "source": "author"
+      }
+    },
+    {
+      "info": {
+        "name": "Pandora",
+        "size": "-",
+        "date": "2024-11-15",
+        "type": "open_source"
+      },
+      "validation": {
+        "overall": "4.31",
+        "newton": "1.00",
+        "mass": "0.55",
+        "fluid": "0.98",
+        "penetration": "0.79",
+        "gravity": "0.99",
+        "source": "author"
+      },
+      "test": {
+        "overall": "1.03",
+        "frameWise": "0.49",
+        "temporal": "0.53",
+        "source": "author"
+      },
+      "pro": {
+        "overall": "1.56",
+        "level1": "0.90",
+        "level2": "0.36",
+        "level3": "0.30",
+        "source": "author"
+      },
+      "total": {
+        "overall": "6.90",
         "source": "author"
       }
     }
