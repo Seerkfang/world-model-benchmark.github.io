@@ -111,7 +111,7 @@
       },
       "validation": {
         "overall": "4.60",
-        "newton": "1.0",
+        "newton": "1.00",
         "mass": "0.77",
         "fluid": "0.98",
         "penetration": "0.89",
